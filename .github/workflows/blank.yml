@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Ping Replit
-      run: curl -s https://your-replit-project-url.repl.co
+      run: curl -s https://d118ba0e-6682-458b-8c41-e6c76b1b6a55-00-2sg799lse1nc8.pike.replit.dev:3000/
